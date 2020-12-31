@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Defago Noto Sans';
+    src: url('DefagoNotoSans.eot');
+    src: local('Defago Noto Sans'), local('DefagoNotoSans'),
+        url('DefagoNotoSans.eot?#iefix') format('embedded-opentype'),
+        url('DefagoNotoSans.woff2') format('woff2'),
+        url('DefagoNotoSans.woff') format('woff'),
+        url('DefagoNotoSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

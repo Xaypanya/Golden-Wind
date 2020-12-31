@@ -1,0 +1,38 @@
+*,*:after,*:before{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+    font-family: 'Defago Noto Sans';
+	font-size: 16px;
+	margin: 0;
+	background-image: url("https://i.imgur.com/on1gtSW.jpg");
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+button{
+    opacity: 98%;
+    font-family: 'Defago Noto Sans';
+    outline: none;
+	padding: 10px 25px;
+	font-size: 22px;
+	line-height: 40px;
+	min-width: 150px;
+	text-align: center;
+	cursor: pointer;
+	background: #222831;
+	color: #fff;
+	border-radius: 5px;
+	border:0px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+button:hover {
+    opacity: 95%;
+}
